@@ -1,0 +1,6 @@
+﻿  Bankomat.cpp
+E:\OOPlab3_Oliinyk\OOPlab3_Oliinyk\Bankomat.h(70,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OOPlab3_Oliinyk.cpp
+E:\OOPlab3_Oliinyk\OOPlab3_Oliinyk\Bankomat.h(70,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  OOPlab3_Oliinyk.vcxproj -> E:\OOPlab3_Oliinyk\x64\Debug\OOPlab3_Oliinyk.exe
