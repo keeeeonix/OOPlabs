@@ -1,0 +1,4 @@
+﻿  OOPlab7_Oliinyk.cpp
+E:\OOPlab7_Oliinyk\OOPlab7_Oliinyk\DayofWeek.h(39,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\OOPlab7_Oliinyk\OOPlab7_Oliinyk\DayofWeek.h(64,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  OOPlab7_Oliinyk.vcxproj -> E:\OOPlab7_Oliinyk\Debug\OOPlab7_Oliinyk.exe
