@@ -1,0 +1,14 @@
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\bin\Debug\net8.0\OOPlab18.exe
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\bin\Debug\net8.0\OOPlab18.deps.json
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\bin\Debug\net8.0\OOPlab18.runtimeconfig.json
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\bin\Debug\net8.0\OOPlab18.dll
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\bin\Debug\net8.0\OOPlab18.pdb
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\OOPlab18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\OOPlab18.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\OOPlab18.AssemblyInfo.cs
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\OOPlab18.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\OOPlab18.dll
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\refint\OOPlab18.dll
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\OOPlab18.pdb
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\OOPlab18.genruntimeconfig.cache
+C:\Users\ivano\source\repos\OOPlab18\OOPlab18\obj\Debug\net8.0\ref\OOPlab18.dll
