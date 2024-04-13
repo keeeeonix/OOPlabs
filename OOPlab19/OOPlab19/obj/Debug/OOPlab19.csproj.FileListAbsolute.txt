@@ -1,0 +1,10 @@
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\bin\Debug\OOPlab19.exe.config
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\bin\Debug\OOPlab19.exe
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\bin\Debug\OOPlab19.pdb
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\obj\Debug\OOPlab19.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\obj\Debug\OOPlab19.Form1.resources
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\obj\Debug\OOPlab19.Properties.Resources.resources
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\obj\Debug\OOPlab19.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\obj\Debug\OOPlab19.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\obj\Debug\OOPlab19.exe
+C:\Users\ivano\source\repos\OOPlab19\OOPlab19\obj\Debug\OOPlab19.pdb
