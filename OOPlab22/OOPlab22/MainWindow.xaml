@@ -1,0 +1,51 @@
+﻿<Window x:Class="OOPlab22.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOPlab22"
+        mc:Ignorable="d"
+        Title="RichTextEditorSample" Height="450" Width="800">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Open" Executed="Open_Executed" />
+        <CommandBinding Command="ApplicationCommands.Save" Executed="Save_Executed" />
+    </Window.CommandBindings>
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top">
+            <Button Command="ApplicationCommands.Open">
+                <Image  Width="16" Height="16" />
+            </Button>
+            <Button Command="ApplicationCommands.Save">
+                <Image  Width="16" Height="16" />
+            </Button>
+            <Separator />
+            <ToggleButton Command="EditingCommands.ToggleBold" Name="btnbold">
+                <Image  Width="16" Height="16" />
+            </ToggleButton>
+            <ToggleButton Command="EditingCommands.ToggleItalic" Name="btnitalic">
+                <Image  Width="16" Height="16" />
+            </ToggleButton>
+            <ToggleButton Command="EditingCommands.ToggleUnderline" Name="btnunderline" Checked="btnunderline_Checked" HorizontalAlignment="Left">
+                <Image  Width="16" Height="16"/>
+            </ToggleButton>
+            <Separator/>
+            <ComboBox Name="cmbfontfamily" Width="150" SelectionChanged="cmbfontfamily_Selectionchanged" />
+            <ComboBox Name="cmbfontsize" Width="50" IsEditable="True" TextBoxBase.TextChanged="cmbfontsize_Textchanged" />
+            <Separator/>
+            <Button Command="EditingCommands.AlignLeft" Name="btnleft">
+                <Image  Width="16" Height="16" />
+            </Button>
+            <Button Command="EditingCommands.AlignCenter" Name="btncenter">
+                <Image  Width="16" Height="16" />
+            </Button>
+            <Button Command="EditingCommands.AlignRight" Name="btnright">
+                <Image  Width="16" Height="16"/>
+            </Button>
+            <Separator/>
+            <Button Click="insertImage_Click">
+                <Image  Width="16" Height="16"/>
+            </Button>
+        </ToolBar>
+        <RichTextBox Name="rtbeditor" SelectionChanged="rtbeditor_Selectionchanged" />
+    </DockPanel>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\bin\Debug\OOPlab22.exe.config
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\bin\Debug\OOPlab22.exe
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\bin\Debug\OOPlab22.pdb
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\MainWindow.g.cs
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\App.g.cs
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22_MarkupCompile.cache
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22_MarkupCompile.lref
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\MainWindow.baml
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22.g.resources
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22.Properties.Resources.resources
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22.exe
+C:\Users\ivano\source\repos\OOPlab22\OOPlab22\obj\Debug\OOPlab22.pdb
