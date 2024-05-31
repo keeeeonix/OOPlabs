@@ -1,0 +1,10 @@
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\bin\Debug\OOPlab23_Oliinyk.exe.config
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\bin\Debug\OOPlab23_Oliinyk.exe
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\bin\Debug\OOPlab23_Oliinyk.pdb
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\obj\Debug\OOPlab23_Oliinyk.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\obj\Debug\OOPlab23_Oliinyk.Form1.resources
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\obj\Debug\OOPlab23_Oliinyk.Properties.Resources.resources
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\obj\Debug\OOPlab23_Oliinyk.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\obj\Debug\OOPlab23_Oliinyk.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\obj\Debug\OOPlab23_Oliinyk.exe
+C:\Users\ivano\source\repos\OOPlab23_Oliinyk\OOPlab23_Oliinyk\obj\Debug\OOPlab23_Oliinyk.pdb
