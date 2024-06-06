@@ -1,0 +1,10 @@
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\bin\Debug\OOPlab24.exe.config
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\bin\Debug\OOPlab24.exe
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\bin\Debug\OOPlab24.pdb
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\obj\Debug\OOPlab24.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\obj\Debug\OOPlab24.Form1.resources
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\obj\Debug\OOPlab24.Properties.Resources.resources
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\obj\Debug\OOPlab24.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\obj\Debug\OOPlab24.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\obj\Debug\OOPlab24.exe
+C:\Users\ivano\source\repos\OOPlab24\OOPlab24\obj\Debug\OOPlab24.pdb
