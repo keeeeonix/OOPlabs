@@ -1,0 +1,12 @@
+C:\Users\ivano\source\repos\kursova\kursova\bin\Debug\kursova.exe.config
+C:\Users\ivano\source\repos\kursova\kursova\bin\Debug\kursova.exe
+C:\Users\ivano\source\repos\kursova\kursova\bin\Debug\kursova.pdb
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.Properties.Resources.resources
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.exe
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.pdb
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.MainMenu.resources
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.PVP.resources
+C:\Users\ivano\source\repos\kursova\kursova\obj\Debug\kursova.CPU.resources
