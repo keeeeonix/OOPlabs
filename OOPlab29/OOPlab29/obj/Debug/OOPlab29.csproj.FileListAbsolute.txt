@@ -1,0 +1,11 @@
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\bin\Debug\OOPlab29.exe.config
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\bin\Debug\OOPlab29.exe
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\bin\Debug\OOPlab29.pdb
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\obj\Debug\OOPlab29.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\obj\Debug\OOPlab29.Form1.resources
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\obj\Debug\OOPlab29.Properties.Resources.resources
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\obj\Debug\OOPlab29.SettingsForm.resources
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\obj\Debug\OOPlab29.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\obj\Debug\OOPlab29.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\obj\Debug\OOPlab29.exe
+C:\Users\ivano\source\repos\OOPlab29\OOPlab29\obj\Debug\OOPlab29.pdb
